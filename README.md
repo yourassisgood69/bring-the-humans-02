@@ -327,6 +327,12 @@ If this guide helped you, signing up through
 thanks — and the same link is how you would start if you were writing your own
 guide next.
 
+> **A note on timing:** this guide was written for the “Bring the humans again”
+> bounty, whose entries close on **Saturday 21 November 2026 at 17:30 WIB**
+> (10:30 UTC). Referral signups only count toward that bounty while it is
+> running — but the guide itself stays useful for any bounty after that, and
+> your own referral link keeps earning whenever someone signs up through it.
+
 ## Mistakes that cost beginners their entry
 
 - **Starting the agent session before the bounty opens.** The transcripts are
